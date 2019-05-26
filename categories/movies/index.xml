@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movies on My Little Stories</title>
+    <link>https://sivaprasadreddy.gitlab.io/categories/movies/</link>
+    <description>Recent content in Movies on My Little Stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sivaprasadreddy.gitlab.io/categories/movies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Favorite Movies</title>
+      <link>https://sivaprasadreddy.gitlab.io/posts/2018/my-favorite-movies/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sivaprasadreddy.gitlab.io/posts/2018/my-favorite-movies/</guid>
+      <description>My Favorite Hollywood Movies I am a big fan of Quentin Tarantino and I love all of his movies. But the following movies are top notch in my opinion and I never get bored of watching them.
+ Pulp Fiction Django Unchained Kill Bill: Volume 1 Kill Bill: Volume 2 Inglourious Basterds The Hateful Eight  Next, I am huge fan of Clint Eastwood and I love his movies too.</description>
+    </item>
+    
+  </channel>
+</rss>

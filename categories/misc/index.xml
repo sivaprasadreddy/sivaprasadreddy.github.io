@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc on My Little Stories</title>
+    <link>https://sivaprasadreddy.gitlab.io/categories/misc/</link>
+    <description>Recent content in Misc on My Little Stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sivaprasadreddy.gitlab.io/categories/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to my new personal blog</title>
+      <link>https://sivaprasadreddy.gitlab.io/posts/2017/01/helloworld/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sivaprasadreddy.gitlab.io/posts/2017/01/helloworld/</guid>
+      <description>Hi,
+My name is Siva and by profession I am a Software Developer. I do blog about the technology stuff that I learned at http://sivalabs.in.
+I wanted to start blogging about non-technical stuff and here I am with my new blog https://sivalabs.gitlab.io/.
+Going forward you can find my thoughts on various interesting things in life here.
+Stay tuned :-)</description>
+    </item>
+    
+  </channel>
+</rss>

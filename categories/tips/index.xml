@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips on My Little Stories</title>
+    <link>https://sivaprasadreddy.gitlab.io/categories/tips/</link>
+    <description>Recent content in Tips on My Little Stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sivaprasadreddy.gitlab.io/categories/tips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Debugging Weird Technical Issues using Siva&#39;s 3-Step Debugging Law</title>
+      <link>https://sivaprasadreddy.gitlab.io/posts/2017/01/debug-3-laws/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sivaprasadreddy.gitlab.io/posts/2017/01/debug-3-laws/</guid>
+      <description>&lt;p&gt;At times we stuck with some weird problem which doesn&amp;rsquo;t make any sense and gives no clue where to start debugging the issue also.&lt;/p&gt;
+
+&lt;p&gt;If you find yourself in that situation, follow the following 3 steps.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
