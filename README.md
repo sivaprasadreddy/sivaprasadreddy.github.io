@@ -1,3 +1,3 @@
-# SivaLabs - My Experiments with Technology
+# My Little Stories
 
-http://sivalabs.github.io
+http://sivaprasadreddy.com
