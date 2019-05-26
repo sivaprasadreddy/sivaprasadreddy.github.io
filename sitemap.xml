@@ -3,110 +3,110 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/categories/</loc>
+    <loc>https://sivaprasadreddy.github.io/categories/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/posts/2019/05/from-busy-to-bored/</loc>
+    <loc>https://sivaprasadreddy.github.io/posts/2019/05/from-busy-to-bored/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/</loc>
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sivaprasadreddy.gitlab.io/posts/</loc>
+    <loc>https://sivaprasadreddy.github.io/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/tags/</loc>
+    <loc>https://sivaprasadreddy.github.io/posts/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/tags/thoughts/</loc>
+    <loc>https://sivaprasadreddy.github.io/tags/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/categories/thoughts/</loc>
+    <loc>https://sivaprasadreddy.github.io/categories/thoughts/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/posts/2019/02/every-option-comes-with0pros-and-cons/</loc>
+    <loc>https://sivaprasadreddy.github.io/tags/thoughts/</loc>
+    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sivaprasadreddy.github.io/posts/2019/02/every-option-comes-with0pros-and-cons/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/tags/life/</loc>
+    <loc>https://sivaprasadreddy.github.io/tags/life/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/posts/2018/whom-you-like-most/</loc>
+    <loc>https://sivaprasadreddy.github.io/posts/2018/whom-you-like-most/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/tags/movies/</loc>
+    <loc>https://sivaprasadreddy.github.io/categories/movies/</loc>
     <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/categories/movies/</loc>
+    <loc>https://sivaprasadreddy.github.io/tags/movies/</loc>
     <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/posts/2018/my-favorite-movies/</loc>
+    <loc>https://sivaprasadreddy.github.io/posts/2018/my-favorite-movies/</loc>
     <lastmod>2018-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/posts/2017/01/debug-3-laws/</loc>
+    <loc>https://sivaprasadreddy.github.io/posts/2017/01/debug-3-laws/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/tags/tips/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sivaprasadreddy.gitlab.io/categories/tips/</loc>
+    <loc>https://sivaprasadreddy.github.io/categories/tips/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/tags/misc/</loc>
+    <loc>https://sivaprasadreddy.github.io/tags/tips/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sivaprasadreddy.github.io/categories/misc/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/categories/misc/</loc>
+    <loc>https://sivaprasadreddy.github.io/tags/misc/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.gitlab.io/posts/2017/01/helloworld/</loc>
+    <loc>https://sivaprasadreddy.github.io/posts/2017/01/helloworld/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
