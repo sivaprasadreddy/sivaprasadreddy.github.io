@@ -32,13 +32,13 @@
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.github.io/categories/thoughts/</loc>
+    <loc>https://sivaprasadreddy.github.io/tags/thoughts/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.github.io/tags/thoughts/</loc>
+    <loc>https://sivaprasadreddy.github.io/categories/thoughts/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -60,13 +60,13 @@
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.github.io/categories/movies/</loc>
+    <loc>https://sivaprasadreddy.github.io/tags/movies/</loc>
     <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.github.io/tags/movies/</loc>
+    <loc>https://sivaprasadreddy.github.io/categories/movies/</loc>
     <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -82,25 +82,25 @@
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.github.io/categories/tips/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sivaprasadreddy.github.io/tags/tips/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.github.io/categories/misc/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>https://sivaprasadreddy.github.io/categories/tips/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sivaprasadreddy.github.io/tags/misc/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sivaprasadreddy.github.io/categories/misc/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
