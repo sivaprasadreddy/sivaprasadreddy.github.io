@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Little Stories</title>
@@ -6,10 +6,19 @@
     <description>Recent content on My Little Stories</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sivaprasadreddy.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Just for fun</title>
+      <link>https://sivaprasadreddy.github.io/posts/2020/04/just-for-fun/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sivaprasadreddy.github.io/posts/2020/04/just-for-fun/</guid>
+      <description>Having some fun is absolutely necessary in these COVID-19 times to relax a bit :-) In the final round of interview when the the interviewer told you that you will be working on building a microservices based platform and you can help in setting up infrastructure using Kubernetes too, if you are interested&amp;hellip;    After joining when they put you in a 15 year old project and start assigning low priority bugs opened in 2008&amp;hellip;    While onboarding the HR folks singing how a cool a typical day in their organization is and that engineering manager showing you how agile their work culture is&amp;hellip;    When you show your quick prototype and business folks liked it and asked you to make sure it works fine on Chrome, Firefox, Safari and IE11 and be ready to give a demo by Friday and went on to dance floor&amp;hellip;    Those senior developers who neither gets excited about new technologies nor worry to work on JSF 1.</description>
+    </item>
     
     <item>
       <title>Life is beautiful, If you keep it simple</title>
@@ -18,7 +27,7 @@
       
       <guid>https://sivaprasadreddy.github.io/posts/2020/04/life-is-beautiful/</guid>
       <description>A year ago I was in Germany (Berlin) and it was a beautiful Saturday evening. I was alone and feeling bored. Then I suddenly remembered about a book my friend recommended to me, specifically one particular story. I picked up the book and start reading the story my friend suggested.
-After reading the story I had no words, no thoughts&amp;hellip;nothing. I was just sitting there without any thoughts or emotions for few minutes.</description>
+  After reading the story I had no words, no thoughts&amp;hellip;nothing. I was just sitting there without any thoughts or emotions for few minutes.</description>
     </item>
     
     <item>
@@ -71,7 +80,7 @@ After all the students expressed who is their favorite person, he said So, none 
       
       <guid>https://sivaprasadreddy.github.io/posts/2018/my-favorite-movies/</guid>
       <description>My Favorite Hollywood Movies I am a big fan of Quentin Tarantino and I love all of his movies. But the following movies are top notch in my opinion and I never get bored of watching them.
- Pulp Fiction Django Unchained Kill Bill: Volume 1 Kill Bill: Volume 2 Inglourious Basterds The Hateful Eight  Next, I am huge fan of Clint Eastwood and I love his movies too.</description>
+ Pulp Fiction Django Unchained Kill Bill: Volume 1 Kill Bill: Volume 2 Inglourious Basterds The Hateful Eight  Next, I am huge fan of Clint Eastwood and I love his movies too. Following are my favorite movies acted in or directed by Clint Eastwood.</description>
     </item>
     
     <item>
@@ -81,7 +90,6 @@ After all the students expressed who is their favorite person, he said So, none 
       
       <guid>https://sivaprasadreddy.github.io/2017/01/debugging-weird-technical-issues-using-sivas-3-step-debugging-law/</guid>
       <description>&lt;p&gt;At times we stuck with some weird problem which doesn&amp;rsquo;t make any sense and gives no clue where to start debugging the issue also.&lt;/p&gt;
-
 &lt;p&gt;If you find yourself in that situation, follow the following 3 steps.&lt;/p&gt;</description>
     </item>
     

@@ -1,9 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sivaprasadreddy.github.io/categories/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sivaprasadreddy.github.io/tags/fun/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sivaprasadreddy.github.io/categories/fun/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sivaprasadreddy.github.io/tags/it/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sivaprasadreddy.github.io/posts/2020/04/just-for-fun/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sivaprasadreddy.github.io/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sivaprasadreddy.github.io/posts/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sivaprasadreddy.github.io/tags/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sivaprasadreddy.github.io/posts/2020/04/life-is-beautiful/</loc>
+    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sivaprasadreddy.github.io/tags/thoughts/</loc>
+    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sivaprasadreddy.github.io/categories/thoughts/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,8 +73,23 @@
   </url>
   
   <url>
+    <loc>https://sivaprasadreddy.github.io/tags/life/</loc>
+    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sivaprasadreddy.github.io/posts/2018/whom-you-like-most/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sivaprasadreddy.github.io/tags/movies/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sivaprasadreddy.github.io/categories/movies/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,85 +103,28 @@
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.github.io/posts/2017/01/helloworld/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sivaprasadreddy.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sivaprasadreddy.github.io/tags/life/</loc>
-    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sivaprasadreddy.github.io/categories/misc/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sivaprasadreddy.github.io/tags/misc/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sivaprasadreddy.github.io/categories/movies/</loc>
-    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sivaprasadreddy.github.io/tags/movies/</loc>
-    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sivaprasadreddy.github.io/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sivaprasadreddy.github.io/posts/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sivaprasadreddy.github.io/tags/</loc>
-    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sivaprasadreddy.github.io/categories/thoughts/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sivaprasadreddy.github.io/tags/thoughts/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://sivaprasadreddy.github.io/tags/tips/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sivaprasadreddy.github.io/categories/tips/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sivaprasadreddy.github.io/tags/tips/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://sivaprasadreddy.github.io/tags/misc/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sivaprasadreddy.github.io/categories/misc/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sivaprasadreddy.github.io/posts/2017/01/helloworld/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
