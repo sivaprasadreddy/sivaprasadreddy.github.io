@@ -1,0 +1,45 @@
+baseURL = "https://sivaprasadreddy.com"
+languageCode = "en-us"
+title = "My Little Stories"
+#theme = "colorlib"
+theme = "wellington"
+
+enableRobotsTXT = true
+enableEmoji = true
+preserveTaxonomyNames = true
+
+[pagination]
+  pagerSize=10
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-G3FX16QYJD'
+  [services.disqus]
+    shortname = 'siva-personal-blog'
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  author = "Siva"
+  subtitle = "My little stories"
+  description = "Life, Health, Family, Career"
+  facebook = ""
+  twitter = "siva_personal"
+  googleplus = ""
+  youtube = ""
+  github = ""
+  linkedin = ""
+
+[social]
+  twitter = "siva_personal"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/static/images'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

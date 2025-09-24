@@ -1,3 +1,9 @@
 # My Little Stories
 
-http://sivaprasadreddy.com
+https://sivaprasadreddy.github.io/
+
+## How to run?
+```shell
+$ npm install
+$ npm run dev
+```
